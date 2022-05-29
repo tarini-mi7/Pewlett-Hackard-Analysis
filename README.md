@@ -15,7 +15,7 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 ### Future Job Openings 
 
-- After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (54,447/72,458 = 75%) with around **75%** of the staff to retire. Please reference the Unique Titles table below. 
+- After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (54,447/72,458 = 75%) with around **75%** of the staff to retire. Please refer the Unique Titles table below. 
 	
 	![alt text](https://github.com/tarini-mi7/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/count%20vs%20title.png)
 
